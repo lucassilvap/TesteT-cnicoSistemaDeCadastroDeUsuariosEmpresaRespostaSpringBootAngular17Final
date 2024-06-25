@@ -3,7 +3,8 @@
 
 
 ## Use o comando docker-compose-up estando na pasta backend (foi utilizado docker para a parte de banco de dados(postgresql)
-![DockerCompose](https://github.com/lucassilvap/TesteTecnicoSistemaDeCadastroDeUsuariosEmpresaReplySpringBootAngular17/assets/92272692/f0859641-d72b-4855-8c89-f1142546f75c)
+![DockerCompose](https://github.com/lucassilvap/TesteTecnicoSistemaDeCadastroDeUsuariosEmpresaRespostaSpringBootAngular17Final/assets/92272692/5a58c417-fe95-4757-a2ed-a99d421ce4f5)
+
 
 ## Inicie a aplicação backend(springboot)
 ![SpringBoot](https://github.com/lucassilvap/TesteTecnicoSistemaDeCadastroDeUsuariosEmpresaReplySpringBootAngular17/assets/92272692/f293a0d9-8bf0-4f39-b1d8-9b045f59f068)
